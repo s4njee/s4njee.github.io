@@ -24,7 +24,7 @@ github_username: s4njee
 
 # Build settings
 markdown: kramdown
-theme: midnight
+theme: Midnight
 plugins:
   - jekyll-feed
 
